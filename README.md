@@ -21,4 +21,4 @@ I am a passionate web designer focused on crafting seamless, beautiful, and high
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=novelabrand&theme=radical)
+## 🚀 Let's Build Something Great Together!
